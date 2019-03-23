@@ -1,0 +1,36 @@
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maciek\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maciek\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

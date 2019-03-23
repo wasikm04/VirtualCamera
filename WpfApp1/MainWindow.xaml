@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700.613" Width="1109.737"
+        KeyDown="WindowKeyHandler">
+    <Grid Margin="10,0,0,0">
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="777*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="DrawingPanel" HorizontalAlignment="Center" VerticalAlignment="Center" Height="576" Width="1000" Margin="46,10,46,84">
+
+        </Canvas>
+        <Label x:Name="label"  FontSize="23"  HorizontalAlignment="Left" Height="69" Margin="46,591,0,0" VerticalAlignment="Top" Width="1000">
+            <Label.Content>
+                <AccessText TextWrapping="Wrap" Text="Strzałki, Q: w przód, A: w tył, E: Zoom+, F: Zoom-, R: RotacjaY w prawo, F: RotacjaY w lewo T: RotacjaX w przód, G: RotacjaX w tył, Y: RotacjaZ w lewo, H: RotacjaZ w prawo"/>
+            </Label.Content>
+        </Label>
+    </Grid>
+</Window>
